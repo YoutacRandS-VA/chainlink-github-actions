@@ -1,6 +1,6 @@
 name: github-token-issuer-action-buggy
 runs:
-  using: node16
+  using: node20
   main: dist/index.js
 description: "NOTE: INTENTIONALLY BROKEN | Get an installation access token based on the current environmental AWS role"
 inputs:
