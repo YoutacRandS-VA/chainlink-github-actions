@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@actions/core": "^1.10.0",
-    "type-fest": "^4.0.0",
+    "type-fest": "^4.18.3",
     "zod": "^3.21.4"
   }
 }
